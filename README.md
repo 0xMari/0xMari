@@ -1,6 +1,6 @@
 ## Hi there 👋
-- ✨I'm currently working on an AR app
-- 🔭I'm currently learning Unity 
+- ✨ working on an AR app
+- 📚 currently learning Unity
 <!--
 **0xMari/0xMari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
