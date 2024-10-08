@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- ✨I'm currently working on an AR app
+- 🔭I'm currently learning Unity 
 <!--
 **0xMari/0xMari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--[![roadmap.sh](https://roadmap.sh/card/tall/67055a2cfb4be684db839e54?variant=dark)](https://roadmap.sh)-->
