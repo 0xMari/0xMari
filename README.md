@@ -1,5 +1,10 @@
 ## Hi there 👋
-- 📚 currently learning Unity
+# Latest personal projects
+
+- simple chatbot [x](https://github.com/0xMari/chat-bot)
+- procedural terrain generator WIP [x](https://github.com/0xMari/procedural-world)
+
+  
 <!--
 **0xMari/0xMari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
