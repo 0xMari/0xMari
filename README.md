@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Latest personal projects
+### Latest personal projects
 
 - simple chatbot [x](https://github.com/0xMari/chat-bot)
 - procedural terrain generator WIP [x](https://github.com/0xMari/procedural-world)
