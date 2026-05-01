@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Latest personal projects
 
-- Fairy town: simple procedural fairy world [x]((https://github.com/0xMari/fairytown))
+- Fairy town: simple procedural fairy world [x](https://github.com/0xMari/fairytown)
 
   
 <!--
