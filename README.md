@@ -1,8 +1,7 @@
 ## Hi there 👋
 ### Latest personal projects
 
-- simple chatbot [x](https://github.com/0xMari/chat-bot)
-- procedural terrain generator WIP [x](https://github.com/0xMari/procedural-world)
+- Fairy town: simple procedural fairy world [x]((https://github.com/0xMari/fairytown))
 
   
 <!--
