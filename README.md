@@ -2,6 +2,7 @@
 ### Latest personal projects
 
 - Fairy town: simple procedural fairy world [x](https://github.com/0xMari/fairytown)
+- Little Things: a scrolling blind box experience [x](https://github.com/0xMari/blindbox)
 
   
 <!--
