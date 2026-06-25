@@ -3,6 +3,7 @@
 
 - Fairy town: simple procedural fairy world [x](https://github.com/0xMari/fairytown)
 - Little Things: a scrolling blind box experience [x](https://github.com/0xMari/blindbox)
+- Portfolio website [x](https://github.com/0xMari/portfolio_v1.0)
 
   
 <!--
